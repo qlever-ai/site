@@ -1,0 +1,72 @@
+html, body, header {
+	background-color: black;
+}
+#wrapper {
+	margin: 0 auto;
+	height: 100%;
+}
+
+/*
+Navigation
+*/
+
+#wrapper {
+
+}
+#wrapper .navbar {
+	height: 120px;
+	border-bottom: 2px solid white;
+}
+#wrapper .navbar .navbar-section{
+
+}
+#wrapper .navbar .navbar-section{
+
+}
+#wrapper .navbar .navbar-section .btn {
+	height: inherit;
+}
+#wrapper .navbar .navbar-section .btn img {
+	height: 5rem;
+}
+
+/*
+Body
+*/
+
+#wrapper .container {
+
+}
+#wrapper .container .columns {
+
+}
+#wrapper .container .columns .column {
+
+}
+#wrapper .container .columns .column h1 {
+	font-size: 6rem;
+}
+#wrapper .container .columns .column img {
+
+}
+@media (max-width: 1320px) {
+	#wrapper .container .columns .column h1 {
+		font-size: 5rem;
+	}
+}
+@media (max-width: 1120px) {
+	#wrapper .container .columns .column h1 {
+		font-size: 4rem;
+	}
+}
+@media (max-width: 880px) {
+	#wrapper .container .columns .column h1 {
+		font-size: 3.2rem;
+	}
+}
+@media (max-width: 648px) {
+	#wrapper .container .columns .column h1 {
+		font-size: 2.4rem;
+	}
+}
+
