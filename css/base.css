@@ -50,8 +50,8 @@ Body
 
 }
 #wrapper .container .columns .column h1 {
-	font-size: 6rem;
-	line-height: 1.0;
+	font-size: 5.6rem;
+	line-height: 1.1;
 }
 #wrapper .container .columns .column img {
 
@@ -71,6 +71,8 @@ Footer
 }
 #wrapper .footer .columns .copyright {
 	font-size: 0.6rem;
+	line-height: 1rem;
+	vertical-align: middle;
 }
 
 /*
@@ -87,12 +89,12 @@ Display Sizing
 		font-size: 5rem;
 	}
 }
-@media (max-width: 1120px) {
+@media (max-width: 1180px) {
 	#wrapper .container .columns .column h1 {
 		font-size: 4rem;
 	}
 }
-@media (max-width: 880px) {
+@media (max-width: 940px) {
 	#wrapper .container .columns .column h1 {
 		font-size: 3.2rem;
 	}
